@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run main",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "cd '${workspaceFolder}' && /usr/bin/clang++ -g -std=c++17 'main.cpp' -o '.vscode/main_debug' -L'/usr/local/opt/raylib/lib' -I'/usr/local/opt/raylib/include' -lraylib -framework OpenGL -framework Cocoa -framework IOKit -framework CoreVideo && '.vscode/main_debug'"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "debug.internalConsoleOptions": "neverOpen",
+    "code-runner.runInTerminal": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.executorMap": {
+        "cpp": "cd \"$workspaceRoot\" && /usr/bin/clang++ -g -std=c++17 \"$fileName\" -o \".vscode/$fileNameWithoutExt\" && \".vscode/$fileNameWithoutExt\""
+    }
+}
