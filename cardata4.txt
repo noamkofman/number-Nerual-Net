@@ -1,5 +1,0 @@
-Pallet      PAG    PAG45982IB   737    4978   PDX
-Container   AYF    AYF23409AA   737    2209   LAS
-Combo Flat  AAA    AAA89023DL   737    5932   DFW
-Pallet      PAG    PAG55421UA   737   11023   SEA
-Combo Box   AAA    AAA89023DL   737    5932   DFW
